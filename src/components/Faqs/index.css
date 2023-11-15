@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto';
+}
+
+.app-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.faq-container {
+  background-color: #ffffff;
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.heading {
+  color: #cb8805;
+}
